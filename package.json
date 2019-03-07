@@ -1,0 +1,25 @@
+{
+  "name": "send-puppeteer",
+  "description": "Firefox Send vNext screenshots",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/send-puppeteer/issues"
+  },
+  "dependencies": {
+    "puppeteer": "1.13.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/send-puppeteer#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/send-puppeteer.git"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
