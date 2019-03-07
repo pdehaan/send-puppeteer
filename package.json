@@ -7,6 +7,7 @@
     "url": "https://github.com/pdehaan/send-puppeteer/issues"
   },
   "dependencies": {
+    "axios": "0.18.0",
     "puppeteer": "1.13.0"
   },
   "devDependencies": {},

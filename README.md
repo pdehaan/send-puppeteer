@@ -2,151 +2,201 @@
 
 ## en-US
 
-![](./shots/home-en-US.png)
+![](./shots/home-en-US-fc1d2f4.png)
+
 ## ar
 
-![](./shots/home-ar.png)
+![](./shots/home-ar-fc1d2f4.png)
+
 ## ast
 
-![](./shots/home-ast.png)
+![](./shots/home-ast-fc1d2f4.png)
+
 ## az
 
-![](./shots/home-az.png)
+![](./shots/home-az-fc1d2f4.png)
+
 ## bs
 
-![](./shots/home-bs.png)
+![](./shots/home-bs-fc1d2f4.png)
+
 ## ca
 
-![](./shots/home-ca.png)
+![](./shots/home-ca-fc1d2f4.png)
+
 ## cak
 
-![](./shots/home-cak.png)
+![](./shots/home-cak-fc1d2f4.png)
+
 ## cs
 
-![](./shots/home-cs.png)
+![](./shots/home-cs-fc1d2f4.png)
+
 ## cy
 
-![](./shots/home-cy.png)
+![](./shots/home-cy-fc1d2f4.png)
+
 ## da
 
-![](./shots/home-da.png)
+![](./shots/home-da-fc1d2f4.png)
+
 ## de
 
-![](./shots/home-de.png)
+![](./shots/home-de-fc1d2f4.png)
+
 ## dsb
 
-![](./shots/home-dsb.png)
+![](./shots/home-dsb-fc1d2f4.png)
+
 ## el
 
-![](./shots/home-el.png)
+![](./shots/home-el-fc1d2f4.png)
+
 ## es-AR
 
-![](./shots/home-es-AR.png)
+![](./shots/home-es-AR-fc1d2f4.png)
+
 ## es-CL
 
-![](./shots/home-es-CL.png)
+![](./shots/home-es-CL-fc1d2f4.png)
+
 ## es-ES
 
-![](./shots/home-es-ES.png)
+![](./shots/home-es-ES-fc1d2f4.png)
+
 ## es-MX
 
-![](./shots/home-es-MX.png)
+![](./shots/home-es-MX-fc1d2f4.png)
+
 ## et
 
-![](./shots/home-et.png)
+![](./shots/home-et-fc1d2f4.png)
+
 ## fa
 
-![](./shots/home-fa.png)
+![](./shots/home-fa-fc1d2f4.png)
+
 ## fr
 
-![](./shots/home-fr.png)
+![](./shots/home-fr-fc1d2f4.png)
+
 ## fy-NL
 
-![](./shots/home-fy-NL.png)
+![](./shots/home-fy-NL-fc1d2f4.png)
+
 ## hsb
 
-![](./shots/home-hsb.png)
+![](./shots/home-hsb-fc1d2f4.png)
+
 ## hu
 
-![](./shots/home-hu.png)
+![](./shots/home-hu-fc1d2f4.png)
+
 ## ia
 
-![](./shots/home-ia.png)
+![](./shots/home-ia-fc1d2f4.png)
+
 ## id
 
-![](./shots/home-id.png)
+![](./shots/home-id-fc1d2f4.png)
+
 ## it
 
-![](./shots/home-it.png)
+![](./shots/home-it-fc1d2f4.png)
+
 ## ja
 
-![](./shots/home-ja.png)
+![](./shots/home-ja-fc1d2f4.png)
+
 ## ka
 
-![](./shots/home-ka.png)
+![](./shots/home-ka-fc1d2f4.png)
+
 ## kab
 
-![](./shots/home-kab.png)
+![](./shots/home-kab-fc1d2f4.png)
+
 ## ko
 
-![](./shots/home-ko.png)
+![](./shots/home-ko-fc1d2f4.png)
+
 ## ms
 
-![](./shots/home-ms.png)
+![](./shots/home-ms-fc1d2f4.png)
+
 ## nb-NO
 
-![](./shots/home-nb-NO.png)
+![](./shots/home-nb-NO-fc1d2f4.png)
+
 ## nl
 
-![](./shots/home-nl.png)
+![](./shots/home-nl-fc1d2f4.png)
+
 ## nn-NO
 
-![](./shots/home-nn-NO.png)
+![](./shots/home-nn-NO-fc1d2f4.png)
+
 ## pt-BR
 
-![](./shots/home-pt-BR.png)
+![](./shots/home-pt-BR-fc1d2f4.png)
+
 ## pt-PT
 
-![](./shots/home-pt-PT.png)
+![](./shots/home-pt-PT-fc1d2f4.png)
+
 ## ro
 
-![](./shots/home-ro.png)
+![](./shots/home-ro-fc1d2f4.png)
+
 ## ru
 
-![](./shots/home-ru.png)
+![](./shots/home-ru-fc1d2f4.png)
+
 ## sk
 
-![](./shots/home-sk.png)
+![](./shots/home-sk-fc1d2f4.png)
+
 ## sl
 
-![](./shots/home-sl.png)
+![](./shots/home-sl-fc1d2f4.png)
+
 ## sq
 
-![](./shots/home-sq.png)
+![](./shots/home-sq-fc1d2f4.png)
+
 ## sr
 
-![](./shots/home-sr.png)
+![](./shots/home-sr-fc1d2f4.png)
+
 ## sv-SE
 
-![](./shots/home-sv-SE.png)
+![](./shots/home-sv-SE-fc1d2f4.png)
+
 ## te
 
-![](./shots/home-te.png)
+![](./shots/home-te-fc1d2f4.png)
+
 ## tl
 
-![](./shots/home-tl.png)
+![](./shots/home-tl-fc1d2f4.png)
+
 ## tr
 
-![](./shots/home-tr.png)
+![](./shots/home-tr-fc1d2f4.png)
+
 ## uk
 
-![](./shots/home-uk.png)
+![](./shots/home-uk-fc1d2f4.png)
+
 ## vi
 
-![](./shots/home-vi.png)
+![](./shots/home-vi-fc1d2f4.png)
+
 ## zh-CN
 
-![](./shots/home-zh-CN.png)
+![](./shots/home-zh-CN-fc1d2f4.png)
+
 ## zh-TW
 
-![](./shots/home-zh-TW.png)
+![](./shots/home-zh-TW-fc1d2f4.png)
+

@@ -1,4 +1,6 @@
 const fs = require("fs");
+
+const axios = require("axios");
 const puppeteer = require("puppeteer");
 
 const availableLanguages = [
@@ -56,23 +58,32 @@ const availableLanguages = [
 
 scrape(availableLanguages);
 
-async function scrape(availableLanguages = ["en-US", "de"]) {
+async function scrape(
+  availableLanguages = ["en-US", "de"],
+  server = "https://send2.dev.lcip.org"
+) {
   let README = "# Firefox Send vNext\n\n";
+
+  const { data } = await axios.get(`${server}/__version__`);
+  const commit = data.commit;
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.setViewport({ width: 800, height: 600 });
+
   for (const lang of availableLanguages) {
     await page.setExtraHTTPHeaders({
       "accept-language": lang
     });
-    await page.goto("https://send2.dev.lcip.org/", {
-      waitUntil: "networkidle2"
+    await page.goto(server, {
+      waitUntil: "networkidle0"
     });
-    const p = `./shots/home-${lang}.png`;
+    const p = `./shots/home-${lang}-${commit}.png`;
+    console.log(p);
     await page.screenshot({ path: p, fullPage: true });
 
     README += `## ${lang}\n\n![](${p})\n\n`;
   }
+
   await browser.close();
   fs.writeFileSync("./README.md", README);
 }
