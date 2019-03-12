@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const axios = require("axios");
+// const axios = require("axios");
 const puppeteer = require("puppeteer");
 
 const {availableLanguages} = require("./package.json");
@@ -30,11 +30,11 @@ async function scrape(
     await page.goto(server, {
       waitUntil: "networkidle0"
     });
-    const el = await page.$("main.main");
+    // const el = await page.$("main.main");
     const p = `./shots/home-el-${lang}.png`;
     await wait(1000); // wait 1s
-    // await page.screenshot({ path: p, fullPage: true});
-    await el.screenshot({ path: p });
+    await page.screenshot({ path: p, fullPage: true});
+    // await el.screenshot({ path: p });
     await browser.close();
 
     README += `## ${lang}\n\n![](${p})\n\n`;

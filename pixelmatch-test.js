@@ -26,7 +26,7 @@ for (const lang of availableLanguages) {
     diffPng.data,
     defaultLangPng.width,
     defaultLangPng.height,
-    { threshold: 0.9 }
+    { threshold: 0.6 }
   );
 
   if (diffPixels > 0) {
