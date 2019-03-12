@@ -6,8 +6,8 @@ const puppeteer = require("puppeteer");
 const {availableLanguages} = require("./package.json");
 
 scrape(
-  // availableLanguages
-  ["en-US", "fr"]
+  availableLanguages
+  // ["en-US", "fr"]
 );
 
 async function scrape(
